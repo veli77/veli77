@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veli77
 - 👀 I’m interested in Circuit design, PCB design, Robotic, Space
-- 🌱 I’m currently learning Python, C#
+- 🌱 I’m currently learning Python, C#, Java
 - 💞️ I’m looking to collaborate on all problems which are required  intelligence
 - 📫 How to reach me ... veliozerdem@gmail.com
 
